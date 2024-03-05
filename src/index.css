@@ -12,6 +12,10 @@
   scroll-behavior: smooth;
 }
 
+html {
+  scroll-padding-top: 70px; /* height of sticky header */
+}
+
 @layer components {
   .max-container {
     max-width: 1440px;
