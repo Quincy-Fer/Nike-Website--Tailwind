@@ -7,8 +7,9 @@ Vite: Build-tool
 Framework: React.js
 Styling: Tailwindccs
 
-Getting Started
-Clone the repository --> Git clone and cd into directory
-Install dependecies --> npm install
-Run the dev server --> npm run dev
-Open the app in your browser --> Visit http://localhost:5173/ in your browser
+Getting Started: 
+
+1.Clone the repository --> Git clone and cd into directory
+2.Install dependecies --> npm install
+3.Run the dev server --> npm run dev
+4.Open the app in your browser --> Visit http://localhost:5173/ in your browser
