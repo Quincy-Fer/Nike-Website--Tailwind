@@ -1,8 +1,8 @@
-Nike Website.
+###Nike Website.
 
 This Website was made following a tutorial by JavaScript Mastery to familiarize myself with tailwind css styling.
 
-Tech Stack:
+**Tech Stack**
 Vite: Build-tool
 Framework: React.js
 Styling: Tailwindccs
