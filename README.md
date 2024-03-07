@@ -9,7 +9,7 @@ Styling: Tailwindccs
 
 **Getting Started**
 
--Clone the repository --> Git clone and cd into directory
--Install dependecies --> npm install
--Run the dev server --> npm run dev
--Open the app in your browser --> Visit http://localhost:5173/ in your browser
+- Clone the repository --> Git clone and cd into directory
+- Install dependecies --> npm install
+- Run the dev server --> npm run dev
+- Open the app in your browser --> Visit http://localhost:5173/ in your browser
